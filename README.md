@@ -1,5 +1,5 @@
 # Spring-Boot-REST-API-Security
-Project with login and password,
+Spring Boot REST API Security Project with login and password for employees with different roles for JDBC authentication for plain-text passwords{noop} and encrypted passwords
 
 ## Basic Configuration
 
